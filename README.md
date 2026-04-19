@@ -1,2 +1,2 @@
 # File Organizer
-This let your file organize very quick
+This python script will let your file organize very quick!
